@@ -154,11 +154,9 @@ collections:
     output: true
   projects:
     output: true
-  statwork:
-    output: true
   teachings:
     output: true
-  
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
