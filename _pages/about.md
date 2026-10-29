@@ -18,6 +18,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-tests are testy.
+tests are testy. woo!
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
