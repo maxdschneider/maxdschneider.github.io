@@ -11,7 +11,7 @@ horizontal: false
 
 <!-- pages/statworks.md -->
 <div class="statworks">
-{% if site.enable_statwork_categories and page.display_categories %}
+{% if site.enable_statworks_categories and page.display_categories %}
   <!-- Display categorized statworks -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
@@ -19,19 +19,19 @@ horizontal: false
   </a>
   {% assign categorized_statworks = site.statworks | where: "category", category %}
   {% assign sorted_statworks = categorized_statworks | sort: "importance" %}
-  <!-- Generate cards for each statwork -->
+  <!-- Generate cards for each statworks -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for statwork in sorted_statworks %}
-      {% include projects_horizontal.liquid %}
+      {% include statworks_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for statwork in sorted_statworks %}
-      {% include projects.liquid %}
+      {% include statworks.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -43,21 +43,21 @@ horizontal: false
 
 {% assign sorted_statworks = site.statworks | sort: "importance" %}
 
-  <!-- Generate cards for each statwork -->
+  <!-- Generate cards for each statworks -->
 
 {% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for statwork in sorted_statworks %}
-      {% include projects_horizontal.liquid %}
+      {% include statworks_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for statwork in sorted_statworks %}
-      {% include projects.liquid %}
+      {% include statworks.liquid %}
     {% endfor %}
   </div>
   {% endif %}

@@ -1,0 +1,28 @@
+<div class="card hoverable">
+  {% assign statwork_url = statwork.redirect | default: statwork.external_url | default: statwork.url %}
+
+  {% if statwork.img %}
+    <a href="{{ statwork_url | relative_url }}">
+      {% include figure.liquid
+        path=statwork.img
+        class="img-fluid rounded z-depth-1"
+        loading="eager"
+        alt=statwork.title
+      %}
+    </a>
+  {% endif %}
+
+  <div class="card-body">
+    <h3 class="card-title">
+      <a href="{{ statwork_url | relative_url }}">{{ statwork.title }}</a>
+    </h3>
+
+    {% if statwork.description %}
+      <p class="card-text">{{ statwork.description }}</p>
+    {% endif %}
+
+    {% if statwork.category %}
+      <p class="card-text"><small class="text-muted">{{ statwork.category }}</small></p>
+    {% endif %}
+  </div>
+</div>
