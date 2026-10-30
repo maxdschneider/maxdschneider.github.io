@@ -17,7 +17,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
+Hello! I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
 
-tests are testy. woo!
-testy test.
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my research-based statistical and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my consulting page and get in touch. 
