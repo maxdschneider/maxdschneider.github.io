@@ -5,7 +5,7 @@ description: a statwork with a background image and giscus comments
 img: assets/img/Schneider-AGU-Logo.jpg
 importance: 2
 category: work
-giscus_comments: /statworks/hurricane-time-series/
+permalink: /statworks/hurricane-time-series/
 ---
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
