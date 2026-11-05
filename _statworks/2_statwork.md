@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building Bayesian earthquake rate models for the Pacific Northwest
-description: a statwork with a background image and giscus comments
+description: 
 img: assets/img/Schneider-AGU-Logo.jpg
 importance: 2
 category: work
