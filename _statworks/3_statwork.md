@@ -3,7 +3,7 @@ layout: page
 title: Disentangling wind or water damages from hurricanes using time series models
 description: a statwork with a background image and giscus comments
 img: assets/img/Schneider-AGU-Logo.jpg
-importance: 2
+importance: 3
 category: work
 permalink: /statworks/hurricane-time-series/
 ---
