@@ -6,8 +6,24 @@ img: assets/img/Schneider-AGU-Logo.jpg
 importance: 1
 permalink: /statworks/testing-usgs-aftershock-forecasts/
 ---
-<div style="display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 1.5rem; align-items: start;">
-  <div style="min-width: 0;">
+
+<style>
+  .statwork-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    align-items: start;
+  }
+
+  @media (min-width: 768px) {
+    .statwork-layout {
+      grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    }
+  }
+</style>
+
+<div class="statwork-layout">
+  <div>
     {% include figure.liquid loading="eager" path="assets/img/Schneider-AGU-Logo.jpg" title="Statwork image" class="img-fluid rounded z-depth-1" %}
   </div>
 
