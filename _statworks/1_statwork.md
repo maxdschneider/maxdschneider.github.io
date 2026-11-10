@@ -17,7 +17,7 @@ permalink: /statworks/testing-usgs-aftershock-forecasts/
 
   @media (min-width: 768px) {
     .statwork-layout {
-      grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+      grid-template-columns: minmax(0, 6fr) minmax(0, 6fr);
     }
   }
 </style>
