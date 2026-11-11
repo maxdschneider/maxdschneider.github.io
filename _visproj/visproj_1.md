@@ -4,7 +4,7 @@ title: Validating probabilistic aftershock forecasts around user needs
 description: 
 img: assets/img/Schneider-AGU-Logo.jpg
 importance: 1
-permalink: /statworks/testing-usgs-aftershock-forecasts/
+permalink: /visproj/testing-usgs-aftershock-forecasts/
 ---
 
 <style>

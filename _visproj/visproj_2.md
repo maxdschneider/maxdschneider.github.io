@@ -5,7 +5,7 @@ description:
 img: assets/img/criteria-based-seismic-hazard-mapping.png
 importance: 2
 category: work
-permalink: /statworks/bayesian-models-pnw/
+permalink: /visproj/a-project-url/
 ---
 
 <style>

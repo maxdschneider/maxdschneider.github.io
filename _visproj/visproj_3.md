@@ -5,7 +5,7 @@ description:
 img: assets/img/Schneider-AGU-Logo.jpg
 importance: 3
 category: work
-permalink: /statworks/hurricane-time-series/
+permalink: /visproj/proj-url/
 ---
 
 <style>

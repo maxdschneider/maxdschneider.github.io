@@ -156,6 +156,8 @@ collections:
     output: true
   statproj:
     output: true
+  visproj:
+    output: true
   teachings:
     output: true
 
@@ -200,6 +202,7 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - statworks/
 keep_files:
   - CNAME
   - .nojekyll
