@@ -154,7 +154,7 @@ collections:
     output: true
   projects:
     output: true
-  statworks:
+  statproj:
     output: true
   teachings:
     output: true
