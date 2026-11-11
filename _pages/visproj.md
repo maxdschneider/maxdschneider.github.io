@@ -1,8 +1,8 @@
 ---
 layout: page
-title: visproj
+title: Visualization Projects
 permalink: /visproj/
-description: A growing collection of your cool visproj.
+description: Short intro statement.
 nav: true
 nav_order: 4
 display_categories: [work, fun]
