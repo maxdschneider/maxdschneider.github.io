@@ -2,7 +2,7 @@
 layout: page
 title: Machine learning for spatial classification of agricultural abandonment
 description: 
-img: assets/img/Schneider-AGU-Logo.jpg
+img: assets/img/agr-abandonment-field-size-spatial-effect.png
 importance: 3
 permalink: /statproj/hurricane-time-series/
 ---

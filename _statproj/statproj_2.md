@@ -2,7 +2,7 @@
 layout: page
 title: Building Bayesian earthquake rate models for the Pacific Northwest
 description: 
-img: assets/img/criteria-based-seismic-hazard-mapping.png
+img: assets/img/Bayesian-aftershock-parameter-estimates-PNW.png
 importance: 2
 permalink: /statproj/bayesian-models-pnw/
 ---
@@ -24,7 +24,12 @@ permalink: /statproj/bayesian-models-pnw/
 
 <div class="statwork-layout">
   <div>
-    {% include figure.liquid loading="eager" path="assets/img/criteria-based-seismic-hazard-mapping.png" title="Statwork image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/PNW-seismicity-map-tectonics.png" title="Seismicity map for PNW splits by tectonic regime" class="img-fluid rounded z-depth-1" %}
+  </div>
+  
+  <div class="statwork-layout">
+  <div>
+    {% include figure.liquid loading="eager" path="assets/img/Bayesian-aftershock-parameter-estimates-PNW.png" title="Bayesian posterior estimates for three aftershock parameters for different tectonic regimes in the PNW" class="img-fluid rounded z-depth-1" %}
   </div>
 
 The Pacific Northwest (PNW) has multiple tectonic environments and regional differences that affect its earthquake activity. It also has a limited set of earthquakes recorded by country-specific seismic networks, which further complicate the ability of best-practice statistical models to forecast future earthquakes. My PhD dissertation compiled multiple earthquake datasets for the international PNW, characterizing them according to their underlying tectonic regimes. I developed a Bayesian approach to estimate parameters in a space-time point process model (the first of its kind for the PNW), showing that this better handles complex and data-limited environments than traditional parameter estimation techniques. I applied this to study how key parameters, such as aftershock productivity and temporal decay rates, differ between different tectonic regimes, regions and earthquake clustering processes within the PNW. These results demonstrated substantial improvements in the accuracy and stability of earthquake forecasts when using our novel approaches over the current practices in, e.g., the U.S. Geological Survey’s aftershock forecasting system. This research provides new statistical tools to improve forecast reliability, particularly in complex environments where observational data are limited.
