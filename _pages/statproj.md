@@ -1,8 +1,8 @@
 ---
 layout: page
-title: statproj
+title: Statistical Projects
 permalink: /statproj/
-description: A growing collection of your cool statproj.
+description: 
 nav: true
 nav_order: 4
 display_categories: [work, fun]

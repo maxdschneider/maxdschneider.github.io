@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Validating probabilistic aftershock forecasts around user needs
+title: Validating probabilistic aftershock forecasts while incorporating user needs
 description: 
 img: assets/img/Schneider-AGU-Logo.jpg
 importance: 1
@@ -29,7 +29,7 @@ permalink: /statproj/testing-usgs-aftershock-forecasts/
 
   <div style="min-width: 0;">
     <p>
-!!??The US Geological Survey forecasts aftershocks after large earthquakes using probabilistic statistical models. This system builds on cutting-edge statistical models to further account for known issues with aftershock data and model parameters. I am leading an effort to evaluate the forecasting system against observed aftershocks, to assess the forecast performance of each of the methods used to enhance USGS aftershock forecasts. I developed new approaches to testing probabilistic forecasts, considering what would matter most to diverse users of the USGS operational forecasts who often have conflicting needs. This work has quantified tradeoffs between forecast accuracy and precisions and the tendency to over predict aftershocks for [choice X]. Our findings will improve the USGS forecasting system by identifying how statistical methods affects forecast performance, and what tradeoffs this can result in across different user groups.
+The U.S. Geological Survey forecasts aftershocks after large earthquakes using probabilistic statistical models. This system expands on cutting-edge statistical models, using additional methods to account for known issues with aftershock data and model parameters. I am leading a multidisciplinary team to assess the forecast performance of these forecast methods. I developed new approaches to testing probabilistic forecasts, detailing what would matter most to diverse user groups of the USGS operational forecasts (e.g., emergency managers vs. geoscientists) whose forecast priorities may conflict (e.g., focusing on underpredictions vs. model misspecifications). This work has quantified tradeoffs between forecast accuracy and precisions and the tendency to over predict aftershocks for [choice X]. Our findings will improve the USGS forecasting system by disentangling how statistical methods drive forecast performance, and quantifying what tradeoffs may result for different user groups.
     </p>
   </div>
 </div>
