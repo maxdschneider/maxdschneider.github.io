@@ -2,7 +2,7 @@
 layout: page
 title: Consulting
 permalink: /consulting/
-description: Short intro statement.
+description: 
 nav: true
 nav_order: 5
 display_categories: [work, fun]
@@ -20,6 +20,9 @@ I specialize in the following topics and am available for consulting or contract
 - User-centered model communication: eliciting user needs, developing technical products around user needs, conducting usability testing
 </div>
 
+<div markdown="1">
+Click on the images below to learn more about past consulting work.
+</div>
 
 <!-- pages/consulting.md -->
 <div class="consulting">
