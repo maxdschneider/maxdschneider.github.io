@@ -3,7 +3,13 @@ layout: about
 title: Home
 permalink: /
 subtitle:  
-
+_styles: >
+  @media (min-width: 576px) {
+    .profile {
+      width: 65% !important;
+    }
+  }
+  
 profile:
   align: left
   image: schneider-ingv-consulting.jpg
@@ -17,7 +23,8 @@ announcements:
   scrollable: false  # adds a vertical scroll bar if there are more than 3 news items
   limit:  # leave blank to include all the news in the `_news` folder
 ---
-### Thanks for visiting! I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
+## Thanks for visiting! 
+### I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
 
 <div markdown="1">
 UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/). 
