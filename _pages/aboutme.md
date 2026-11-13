@@ -12,7 +12,7 @@ I am fascinated by how society addresses our planet’s gargantuan natural hazar
 </div>
 
 <div markdown="1">
-Major achievements include:
+Major professional achievements include:
 -  building the first spatiotemporal statistical earthquake rate model for the Pacific Northwest (Schneider et al., 2025)
 - redesigning the German national seismic hazard map and consulting on the California state seismic hazard map (Schneider et al., 2023)
 - leading a four-country research program for user-centered and -tested aftershock forecast products (Schneider et al., 2026) 

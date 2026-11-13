@@ -2,7 +2,7 @@
 layout: page
 title: Visualization Work
 permalink: /visproj/
-description: Short intro statement.
+description: 
 nav: true
 nav_order: 4
 display_categories: [work, fun]

@@ -27,6 +27,15 @@ announcements:
 ### I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
 
 <div markdown="1">
+
+</div>
+
+<div markdown="1">
+
+</div>
+
+
+<div markdown="1">
 UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/). 
 </div>
 
