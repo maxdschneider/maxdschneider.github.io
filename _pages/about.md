@@ -2,11 +2,11 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Subtitle
+subtitle:  
 
 profile:
   align: right
-  image: Schneider-AGU-Logo.jpg
+  image: schneider-ingv-consulting.png
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -20,6 +20,6 @@ announcements:
 Thanks for visiting! I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
 
 <div markdown="1">
-UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://www.telemundoareadelabahia.com/video/noticias/local/usgs-instala-red-sensores-captar-sismos-san-ramon/2549061/). 
+UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/). 
 </div>
 
