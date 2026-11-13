@@ -17,7 +17,9 @@ announcements:
   scrollable: false  # adds a vertical scroll bar if there are more than 3 news items
   limit:  # leave blank to include all the news in the `_news` folder
 ---
-Hello! I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
-test
+Thanks for visiting! I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
 
-UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my research-based statistical and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my consulting page and get in touch. 
+<div markdown="1">
+UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://www.telemundoareadelabahia.com/video/noticias/local/usgs-instala-red-sensores-captar-sismos-san-ramon/2549061/) and [get in touch](https://www.telemundoareadelabahia.com/video/noticias/local/usgs-instala-red-sensores-captar-sismos-san-ramon/2549061/). 
+</div>
+
