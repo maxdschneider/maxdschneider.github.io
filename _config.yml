@@ -158,7 +158,7 @@ collections:
     output: true
   visproj:
     output: true
-  consultingproj:
+  consulting:
     output: true
   teachings:
     output: true
