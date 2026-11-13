@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Statistical Projects
+title: Statistical Work
 permalink: /statproj/
 description: 
 nav: true
-nav_order: 4
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualization Projects
+title: Visualization Work
 permalink: /visproj/
 description: Short intro statement.
 nav: true
