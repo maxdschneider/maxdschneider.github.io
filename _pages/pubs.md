@@ -8,8 +8,6 @@ nav_order: 7
 
 <div markdown="1">
 
-## Publications
-
 - Yin, H. Z., Allstadt, K., Barnhart, W. D., Clapp, S. A., Earle, P. S., Goldberg, D. E., Grant, A. R. R., Herman, M. W., Jaiswal, K., McBride, S. K., et al. (2026). [Rapid characterization of the 2025 M w 8.8 Kamchatka, Russia earthquake](https://doi.org/10.1785/0320250038). *The Seismic Record, 6*(1), 1–12.
 
 - **Schneider, M.**, Barall, M., Guttorp, P., Hardebeck, J., Michael, A. J., Page, M., & van der Elst, N. (2025). [Bayesian ETAS modeling for the Pacific Northwest: Uncovering effects of tectonic regimes, regional differences, and swarms on aftershock parameters](https://doi.org/10.1785/0120240249). *Bulletin of the Seismological Society of America, 115*(5), 2219–2236.
@@ -34,13 +32,9 @@ nav_order: 7
 
 - Abdolali, A., **Schneider, M.**, van der Westhuysen, A. J., Ma, Z., & Mehra, A. (2020). Statistical analysis of HWRF errors for accuracy assessment of coupled hydrodynamic modelling systems. In *American Meteorological Society Meeting Abstracts* (Vol. 100, p. 373).
 
-- **Schneider, M.**, & Guttorp, P. (2020). Bayesian ETAS: Towards improved earthquake rate models in the Pacific Northwest. In *AGU Fall Meeting Abstracts* (Vol. 2020, p. NH003-0010).
-
 - Levers, C., **Schneider, M.**, Prishchepov, A. V., Estel, S., & Kuemmerle, T. (2018). [Spatial variation in determinants of agricultural land abandonment in Europe](https://doi.org/10.1016/j.scitotenv.2018.06.326). *Science of the Total Environment, 644*, 95–111.
 
 - Strader, A., **Schneider, M.**, & Schorlemmer, D. (2017). [Prospective and retrospective evaluation of five-year earthquake forecast models for California](https://doi.org/10.1093/gji/ggx268). *Geophysical Journal International, 211*(1), 239–251.
-
-- Strader, A., **Schneider, M.**, Schorlemmer, D., & Liukis, M. (2016). [Prospectively evaluating the Collaboratory for the Study of Earthquake Predictability: An evaluation of the UCERF2 and updated five-year RELM forecasts](https://meetingorganizer.copernicus.org/ESC2016/ESC2016-571.pdf). In *35th General Assembly of the European Seismological Commission*.
 
 - **Schneider, M.**, Blanchard, G., Levers, C., & Kuemmerle, T. (2015). [Spatial variation of drivers of agricultural abandonment with spatially boosted models](https://doi.org/10.1016/j.proenv.2015.07.114). *Procedia Environmental Sciences, 27*, 53–57.
 

@@ -20,5 +20,5 @@ Major achievements include:
 </div>
 
 <div markdown="1">
-In my free time, I bike through San Francisco, drum in a Brazilian music ensemble, and take photos of what strikes me.  
+In my free time, I bike through San Francisco, drum in a Brazilian music ensemble, and [take photos of what strikes me](https://maxdschneider.github.io/photos/).  
 </div>
