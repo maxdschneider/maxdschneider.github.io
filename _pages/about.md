@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Subtitle
 
 profile:
   align: right
@@ -20,6 +20,6 @@ announcements:
 Thanks for visiting! I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
 
 <div markdown="1">
-UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://www.telemundoareadelabahia.com/video/noticias/local/usgs-instala-red-sensores-captar-sismos-san-ramon/2549061/) and [get in touch](https://www.telemundoareadelabahia.com/video/noticias/local/usgs-instala-red-sensores-captar-sismos-san-ramon/2549061/). 
+UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://www.telemundoareadelabahia.com/video/noticias/local/usgs-instala-red-sensores-captar-sismos-san-ramon/2549061/). 
 </div>
 
