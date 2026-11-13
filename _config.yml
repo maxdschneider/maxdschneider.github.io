@@ -158,6 +158,8 @@ collections:
     output: true
   visproj:
     output: true
+  consultingproj:
+    output: true
   teachings:
     output: true
 

@@ -4,7 +4,6 @@ title: Methods for choosing color palettes for natural hazard maps
 description: 
 img: assets/img/criteria-based-seismic-hazard-mapping.png
 importance: 2
-category: work
 permalink: /visproj/color-palettes-natural-hazard-maps/
 ---
 

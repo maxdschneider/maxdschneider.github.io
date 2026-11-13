@@ -4,7 +4,6 @@ title: Visualizing uncertainty for better decisions with earthquake forecasts
 description: 
 img: assets/img/uncertainty-visualizations-aftershock-forecast-maps.png
 importance: 3
-category: work
 permalink: /visproj/uncertainty-visualizations-aftershock-forecasts
 ---
 
