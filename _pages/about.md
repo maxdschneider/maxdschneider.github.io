@@ -26,13 +26,8 @@ announcements:
 # Thanks for visiting! 
 ### I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
 
-<div markdown="1">
-    
-</div>
-
-<div markdown="1">
-    
-</div>
+<br>
+<br>
 
 
 <div markdown="1">
