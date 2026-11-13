@@ -7,6 +7,26 @@ nav_order: 2
 calendar: true
 ---
 
+<style>
+  .statwork-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    align-items: start;
+  }
+
+  @media (min-width: 768px) {
+    .statwork-layout {
+      grid-template-columns: minmax(0, 8fr) minmax(0, 4fr);
+    }
+  }
+</style>
+
+<div class="statwork-layout">
+  <div>
+    {% include figure.liquid loading="eager" path="assets/img/max-schneider.jpg" title="Max Schneider" class="img-fluid rounded z-depth-1" %}
+  </div>
+
 <div markdown="1">
 I am fascinated by how society addresses our planet’s gargantuan natural hazards by using predictive models, forecasting, and decision support tools. In my 15+ years leading interdisciplinary research groups, I have advanced the science and communication of forecasting for earthquakes, hurricanes and climate change. I combine my deep statistical arsenal with complex hazards data and user specifications to develop cutting-edge predictive models, carefully quantifying uncertainty and risk. I also translate these risk metrics to make them relevant for stakeholders, designing visual products and software that can meet actual user needs. My work has shaped forecasting operations and tools to communicate risk for science agencies across the globe, while providing thought leadership through journal publications and consulting roles. 
 </div>
