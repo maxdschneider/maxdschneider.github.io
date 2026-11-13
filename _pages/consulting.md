@@ -9,6 +9,18 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<div markdown="1">
+I specialize in the following topics and am available for consulting or contract work:
+- Statistical models: Bayesian techniques, (generalized) linear regression, time series models, spatiotemporal methods, cluster models and more
+- Machine learning algorithms and high-compute simulation studies
+- Model validation, including metric development and statistical testing
+- Survey and experimental methods, including questionnaire design 
+- Uncertainty quantification and forecasting 
+- Data visualization and map design: graphical design best practices, developing maps, graphics and interactive platforms
+- User-centered model communication: eliciting user needs, developing technical products around user needs, conducting usability testing
+</div>
+
+
 <!-- pages/consulting.md -->
 <div class="consulting">
 {% if site.enable_consulting_categories and page.display_categories %}
