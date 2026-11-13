@@ -8,7 +8,7 @@ nav_order: 7
 
 <div markdown="1">
 
-- Yin, H. Z., Allstadt, K., Barnhart, W. D., Clapp, S. A., Earle, P. S., Goldberg, D. E., Grant, A. R. R., Herman, M. W., Jaiswal, K., McBride, S. K., et al. (2026). [Rapid characterization of the 2025 M w 8.8 Kamchatka, Russia earthquake](https://doi.org/10.1785/0320250038). *The Seismic Record, 6*(1), 1–12.
+- Yin, H. Z., Allstadt, K., Barnhart, W. D., Clapp, S. A., Earle, P. S., Goldberg, D. E., Grant, A. R. R., Herman, M. W., Jaiswal, K., McBride, S. K., Ringler, A. T., **Schneider, M.**, et al. (2026). [Rapid characterization of the 2025 Mw 8.8 Kamchatka, Russia earthquake](https://doi.org/10.1785/0320250038). *The Seismic Record, 6*(1), 1–12.
 
 - **Schneider, M.**, Barall, M., Guttorp, P., Hardebeck, J., Michael, A. J., Page, M., & van der Elst, N. (2025). [Bayesian ETAS modeling for the Pacific Northwest: Uncovering effects of tectonic regimes, regional differences, and swarms on aftershock parameters](https://doi.org/10.1785/0120240249). *Bulletin of the Seismological Society of America, 115*(5), 2219–2236.
 
