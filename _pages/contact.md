@@ -8,5 +8,5 @@ calendar: true
 ---
 
 <div markdown="1">
-Please send me an email to get in touch, or find me on LinkedIn.
+Please [send me an email](mailto:max.schneider15@gmail.com) to get in touch, or connect with me [on LinkedIn](https://www.linkedin.com/in/max-schneider-stats/).
 </div>
