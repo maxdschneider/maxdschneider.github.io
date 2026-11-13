@@ -10,7 +10,8 @@ horizontal: false
 ---
 
 <div markdown="1">
-I specialize in the following topics and am available for consulting or contract work:
+I specialize in the following topics and am available for consulting or contract work. Please [contact me](https://maxdschneider.github.io/contact/) to discuss your project and where I can offer support.
+
 - Statistical models: Bayesian techniques, (generalized) linear regression, time series models, spatiotemporal methods, cluster models and more
 - Machine learning algorithms and high-compute simulation studies
 - Model validation, including metric development and statistical testing

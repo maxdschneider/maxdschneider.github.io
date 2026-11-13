@@ -23,15 +23,15 @@ announcements:
   scrollable: false  # adds a vertical scroll bar if there are more than 3 news items
   limit:  # leave blank to include all the news in the `_news` folder
 ---
-## Thanks for visiting! 
+# Thanks for visiting! 
 ### I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
 
 <div markdown="1">
-
+    
 </div>
 
 <div markdown="1">
-
+    
 </div>
 
 
