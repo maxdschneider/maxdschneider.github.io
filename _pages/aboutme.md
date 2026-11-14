@@ -17,7 +17,7 @@ calendar: true
 
   @media (min-width: 768px) {
     .statwork-layout {
-      grid-template-columns: minmax(0, 8fr) minmax(0, 4fr);
+      grid-template-columns: minmax(0, 6fr) minmax(0, 6fr);
     }
   }
 </style>
