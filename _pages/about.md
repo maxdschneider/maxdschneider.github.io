@@ -3,11 +3,7 @@ layout: page
 title: Home
 permalink: /
 ---
-<style>
-  body:has(.fronthome-layout) h1 {
-    display: none;
-  }
-</style>
+
 
 # 15 years turning messy, high-stakes data into tools and visuals to improve decision-making.
 
