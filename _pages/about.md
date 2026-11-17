@@ -3,8 +3,13 @@ layout: page
 title: Home
 permalink: /
 ---
+<style>
+  body:has(.fronthome-layout) h1 {
+    display: none;
+  }
+</style>
 
-# 15 years turning messy, high-stakes data into tools and visuals that guide real-life decisions
+# 15 years turning messy, high-stakes data into tools and visuals to improve decision-making.
 
 
 
@@ -26,14 +31,13 @@ permalink: /
 <div class="fronthome-layout">
     {% include figure.liquid loading="eager" path="assets/img/schneider-ingv-consulting.jpg" title="Max Schneider" class="img-fluid rounded z-depth-1" %}
 
-<div class="fronthome-layout">
+<div class="fronthome-layout", markdown="1">
 ## I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco.
 </div>
 </div>
 
 <br>
 <br>
-
 
 <div markdown="1">
 UPDATE: After completing a post-doc at the US Geological Survey, I am seeking a new role applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/). 
