@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Boosting forecast accuracy and reliability through improved forecast testing
+title: Raising forecast accuracy and reliability through forecast testing metrics
 description: 
 img: assets/img/usgs-aftershock-forecast-testing.png
 importance: 1

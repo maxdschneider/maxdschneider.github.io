@@ -6,7 +6,25 @@ permalink: /
 
 # 15 years turning messy, high-stakes data into tools and visuals that guide real-life decisions
 
-{% include figure.liquid path="assets/img/schneider-ingv-consulting.jpg" title="Max Schneider" class="img-fluid rounded z-depth-1" %}
+<style>
+  .statwork-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    align-items: start;
+  }
+
+  @media (min-width: 768px) {
+    .statwork-layout {
+      grid-template-columns: minmax(0, 8fr) minmax(0, 4fr);
+    }
+  }
+</style>
+
+<div class="statwork-layout">
+  <div>
+    {% include figure.liquid loading="eager" path="assets/img/schneider-ingv-consulting.jpg" title="Max Schneider" class="img-fluid rounded z-depth-1" %}
+  </div>
 
 ## I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco.
 
@@ -15,7 +33,7 @@ permalink: /
 
 
 <div markdown="1">
-UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/). 
+UPDATE: After completing a post-doc at the US Geological Survey, I am seeking a new role applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/). 
 </div>
 
 {% include news.liquid %}
