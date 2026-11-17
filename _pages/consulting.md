@@ -12,12 +12,12 @@ horizontal: false
 <div markdown="1">
 I specialize in the following topics and am available for consulting or contract engagements. [Contact me](https://maxdschneider.github.io/contact/) to discuss your project and where I can offer support.
 
--	**Predictive Analytics & Statistical Modeling**: Bayesian methods, regression modeling, time-series forecasting, spatiotemporal analytics, clustering, and advanced statistical techniques.
--	**Machine Learning & Computational Analytics**: Machine learning solutions, large-scale simulations, and high-performance computational modeling.
+-	**Predictive Analytics & Statistical Modeling**: Regression modeling, Bayesian methods, time-series methods, geospatial and spatiotemporal modeling, clustering, and advanced statistical techniques.
+-	**Machine Learning & Computational Methods**: Machine learning algorithms, large-scale simulations, and high-performance computational modeling.
 -	**Model Performance & Validation**: Model evaluation, performance metric development, statistical testing, and validation frameworks.
--	**Research & Decision Intelligence**: Survey design, experimental design, questionnaire development, and evidence-based research methods.
+-	**Research & Decision Intelligence**: Survey design, experimental design, questionnaire development, and decision, judgment and user experience research methods.
 -	**Forecasting & Risk Analytics**: Uncertainty quantification, probabilistic forecasting, and risk assessment.
--	**Data Visualization & Business Intelligence**: Data storytelling, dashboard and interactive tool development, geospatial analytics, and effective visual communication.
+-	**Data Visualization & Business Intelligence**: Data storytelling, dashboard and interactive tool development, map design, and effective visual communication.
 -	**User-Centered Product & Communication Strategy**: Stakeholder needs assessment, user-focused technical product development, usability testing, and translating user perspectives into actionable insights.
 
 </div>
