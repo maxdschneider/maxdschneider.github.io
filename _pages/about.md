@@ -1,32 +1,14 @@
 ---
-layout: about
+layout: page
 title: Home
 permalink: /
-subtitle:  
-_styles: >
-  @media (min-width: 576px) {
-    .profile {
-      length: 65% !important;
-    }
-  }
-  
-profile:
-  align: center
-  image: schneider-ingv-consulting.jpg
-  image_circular: false # crops the image to make it circular
-
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: false  # adds a vertical scroll bar if there are more than 3 news items
-  limit:  # leave blank to include all the news in the `_news` folder
 ---
-15 years turning messy, high-stakes data into tools and visuals that guide real-life decisions
-<br>
 
-I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
+# 15 years turning messy, high-stakes data into tools and visuals that guide real-life decisions
+
+{% include figure.liquid path="assets/img/schneider-ingv-consulting.jpg" title="Max Schneider" class="img-fluid rounded z-depth-1" %}
+
+## I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco.
 
 <br>
 <br>
@@ -34,5 +16,22 @@ I’m Max, a statistician, science & risk communicator and earthquake scientist 
 
 <div markdown="1">
 UPDATE: After completing a post-doc at the US Geological Survey, I am seeking new opportunities applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/). 
+</div>
+
+{% include news.liquid %}
+
+<div class="social">
+  <a href="mailto:{{ site.data.socials.email }}" aria-label="Email">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}/" target="_blank" rel="noopener" aria-label="LinkedIn">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}" target="_blank" rel="noopener" aria-label="Google Scholar">
+    <i class="ai ai-google-scholar"></i>
+  </a>
+  <a href="{{ site.data.socials.cv_pdf | relative_url }}" aria-label="CV">
+    <i class="fa-solid fa-file-pdf"></i>
+  </a>
 </div>
 
