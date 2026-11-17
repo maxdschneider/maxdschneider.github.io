@@ -6,7 +6,7 @@ subtitle:
 _styles: >
   @media (min-width: 576px) {
     .profile {
-      width: 85% !important;
+      width: 45% !important;
     }
   }
   
@@ -23,8 +23,10 @@ announcements:
   scrollable: false  # adds a vertical scroll bar if there are more than 3 news items
   limit:  # leave blank to include all the news in the `_news` folder
 ---
-## 15+ years turning messy, high-stakes data into tools and visuals that guide real-life decisions
-### I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
+15 years turning messy, high-stakes data into tools and visuals that guide real-life decisions
+<br>
+
+I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. 
 
 <br>
 <br>
