@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualizing high-stakes forecasts around user needs
+title: Developing products for high-stakes forecasts around user needs
 description: 
 img: assets/img/user-centered-aftershock-forecast-map.png
 importance: 1
