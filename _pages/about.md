@@ -4,7 +4,6 @@ title: Home
 permalink: /
 ---
 
-
 # 15 years turning messy, high-stakes data into tools and visuals to improve decision-making.
 
 
@@ -27,8 +26,8 @@ permalink: /
 <div class="fronthome-layout">
     {% include figure.liquid loading="eager" path="assets/img/schneider-ingv-consulting.jpg" title="Max Schneider" class="img-fluid rounded z-depth-1" %}
 
-<div class="fronthome-layout", markdown="1">
-## I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco.
+<div class="fronthome-layout">
+I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco.
 </div>
 </div>
 
