@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Validating probabilistic aftershock forecasts while incorporating user needs
+title: Boosting forecast accuracy and reliability through improved forecast testing
 description: 
 img: assets/img/usgs-aftershock-forecast-testing.png
 importance: 1
@@ -29,7 +29,7 @@ permalink: /statproj/testing-usgs-aftershock-forecasts/
 
   <div style="min-width: 0;">
     <p>
-The U.S. Geological Survey forecasts aftershocks after large earthquakes using probabilistic statistical models. This system expands on cutting-edge statistical models, using additional methods to account for known issues with aftershock data and model parameters. I am leading a multidisciplinary team to assess the forecast performance of these forecast methods. I developed new approaches to testing probabilistic forecasts, detailing what would matter most to diverse user groups of the USGS operational forecasts (e.g., emergency managers vs. geoscientists) whose forecast priorities may conflict (e.g., focusing on underpredictions vs. model misspecifications). This work has quantified time-varying tradeoffs between forecast accuracy and precision, for instance when using generic forecasting parameter values rather than those calibrated to the ongoing aftershock sequence. Our findings will improve the USGS forecasting system by disentangling how statistical methods drive forecast performance, and better managing these impacts for different user groups.
+The U.S. Geological Survey issues operational aftershock forecasts that guide high-stakes decisions after large earthquakes. I lead a multidisciplinary team that developed new, user-informed metrics for testing these probabilistic forecasts, detailing what matters most to diverse user groups (e.g., emergency managers vs. geoscientists) whose priorities can conflict (e.g., avoiding underpredictions vs. model misspecifications). These refined metrics quantified time-varying tradeoffs, for instance between forecast accuracy and precision when using generic forecasting parameter values rather than values calibrated to the ongoing aftershock sequence. The result is a clearer, evidence-based path to improving the USGS forecasting system: we can now pinpoint how statistical methods drive forecast performance and better manage those impacts for each user group, making forecasts more reliable and useful.
     </p>
   </div>
 </div>

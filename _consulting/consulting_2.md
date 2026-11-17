@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Designing color palettes for seismic hazard in California 
+title: Conveying multiple objectives through innovative map design
 description: 
 img: assets/img/california-seismic-hazard-map-new-colors.png
 importance: 2
@@ -27,4 +27,4 @@ permalink: /consulting/california-seismic-hazard-map/
     {% include figure.liquid loading="eager" path="assets/img/california-seismic-hazard-map-new-colors.png" title="California seismic hazard map with criteria-based color palette" class="img-fluid rounded z-depth-1" %}
   </div>
 
-In 2024, the California Geological Survey updated the [authoritative California seismic hazard map]. I consulted on this project, applying criteria identified [in past work] and developing communication targets for the map to inform the map’s color palette. The result was an innovative color palette that mixed discrete and continuous schemes to spotlight both hazard hotspots and the fact that all of California has seismic hazard. 
+I supported the California Geological Survey’s 2024 update of the authoritative California seismic hazard map, applying evidence-based design criteria to guide its visual design and ensure that several key objectives were communicated. I helped create an innovative color palette that combined discrete and continuous schemes. This improved communication and interpretation of seismic risk, helping policymakers, emergency managers, and the public identify hazard hotspots while avoiding the misconception that areas with lower mapped hazard are risk-free.

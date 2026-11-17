@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Methods for choosing color palettes for natural hazard maps
+title: Improving hazard communication with evidence-based map design
 description: 
 img: assets/img/criteria-based-seismic-hazard-mapping.png
 importance: 2
@@ -27,4 +27,4 @@ permalink: /visproj/color-palettes-natural-hazard-maps/
     {% include figure.liquid loading="eager" path="assets/img/criteria-based-seismic-hazard-mapping.png" title="German seismic hazard map, redesigned using criteria for colors and classification scheme" class="img-fluid rounded z-depth-1" %}
   </div>
 
-Natural hazards like earthquakes, floods, and fires are communicated through maps, generally using a discrete set of colors. Which color palette should hazard maps use, and how many colors should they have? I surveyed the literature from data visualization, statistics, cartography and cognitive psychology to identify key criteria for selecting a color palette and classifying the data being mapped into a discrete number of colors. I worked with a research team to applied these criteria to redesign the German national seismic hazard map, guided by key principles of seismic hazard that the map needed to communicate. We user-tested the redesigned map against the original map, finding that the new map better communicated several key principles of seismic hazard in Germany. This work provides easy-to-implement criteria for hazard mappers to make difficult design choices that determine how risk is communicated; the resulting publication has been widely cited across the natural hazards.
+Natural hazards like earthquakes, floods, and fires are communicated through maps, generally using a discrete set of colors. Which color palette should hazard maps use, and how many colors should they have? I surveyed the literature from data visualization, statistics, cartography and cognitive psychology to identify key criteria for selecting a color palette and classifying mapped data into a discrete number of colors. I applied these criteria to redesign the German national seismic hazard map, guided by key principles of seismic hazard that the map needed to communicate. User testing showed that the new map better communicated several of these principles better than the original. The widely-cited publication provides easy-to-implement criteria that help organizations make informed map design decisions, reduce ambiguity in hazard interpretation, and communicate risk more effectively to diverse audiences. These improvements support better-informed decisions in hazard planning, risk management, and emergency preparedness.

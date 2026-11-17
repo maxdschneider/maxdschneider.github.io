@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Statistical consulting at the University of Washington
+title: Enabling better research decisions through statistical consulting
 description: 
 img: assets/img/schneider-consulting.png
 importance: 3
@@ -27,4 +27,4 @@ permalink: /consulting/stat-consulting-univ-washington
     {% include figure.liquid loading="eager" path="assets/img/schneider-consulting.png" title="Statistical consulting at the University of Washington" class="img-fluid rounded z-depth-1" %}
   </div>
 
-During graduate school, I served as the Statistical Consultant at the University of Washington’s [Center for Statistics and Social Sciences], providing statistical support to dozens of clients across the social, medical, and natural sciences. I held weekly consulting hours and met with clients in person, on video calls, and by email. I supported dozens of clients in experiment/survey design, linear and multilevel regression modelling, machine learning, spatial and time series regression and applying statistical reasoning to challenging scientific problems. 
+During graduate school, I served as the Statistical Consultant at the University of Washington’s [Center for Statistics and Social Sciences], providing statistical support to dozens of clients across the social, medical, and natural sciences. I supported dozens of clients in experiment/survey design, linear and multilevel regression modelling, machine learning, spatial and time series regression and applying statistical reasoning to scientific challenges. My consulting helped clients strengthen research design, select and implement appropriate analytical methods, and translate complex data into scientific evidence.

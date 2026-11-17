@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine learning for spatial classification of agricultural abandonment
+title: Spatial machine learning to support regionalized decision-making 
 description: 
 img: assets/img/agr-abandonment-field-size-spatial-effect.png
 importance: 3
@@ -28,6 +28,6 @@ permalink: /statproj/spatial-machine-learning-agricultural-abandonment/
   </div>
 
 <div markdown="1">
-Agricultural land-use change is shaped by complex spatial relationships that are difficult to capture with conventional statistical approaches, particularly at the fine spatial resolutions needed for regional decision-making. I developed [the first predictive models of agricultural abandonment across the entire European continent](https://www.sciencedirect.com/science/article/abs/pii/S0048969718324021), using spatial machine learning to classify where active farmland is most likely to transition to fallow land. I derived a mathematically optimal framework for the boosted regression algorithm, focusing on the base learner, loss function, and early stopping criteria to avoid overfitting. Applying this framework to satellite image-derived data, I estimated spatial effects of factors such as field size (left) on predicted agricultural abandonment, among other predictive biophysical, socioeconomic and policy-related variables. Quantifying these non-linear dynamics supports more targeted, region-specific agricultural and land-management policies, which I presented in academic seminars as well as to agricultural organizations and farmers.
+Agricultural land-use change is shaped by complex spatial relationships that are difficult to capture with conventional statistical approaches, particularly at the fine spatial resolutions needed for regional decision-making. I developed [the first predictive models of agricultural abandonment across the entire European continent](https://www.sciencedirect.com/science/article/abs/pii/S0048969718324021), using spatial machine learning to classify where active farmland is most likely to transition to fallow land. I derived a mathematically optimal framework for the boosted regression algorithm, including early stopping criteria to avoid overfitting. Applying this framework to satellite image-derived data, I estimated spatial effects of factors such as field size (see left) alongside other biophysical, socioeconomic and policy-related predictors. Quantifying such non-linear dynamics supports more targeted, region-specific agricultural and land-management policies, which were developed in a highly-cited publication.
 </div>
   </div>

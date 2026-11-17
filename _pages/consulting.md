@@ -10,15 +10,16 @@ horizontal: false
 ---
 
 <div markdown="1">
-I specialize in the following topics and am available for consulting or contract work. Please [contact me](https://maxdschneider.github.io/contact/) to discuss your project and where I can offer support.
+I specialize in the following topics and am available for consulting or contract engagements. [Contact me](https://maxdschneider.github.io/contact/) to discuss your project and where I can offer support.
 
-- Statistical models: Bayesian techniques, (generalized) linear regression, time series models, spatiotemporal methods, cluster models and more
-- Machine learning algorithms and high-compute simulation studies
-- Model validation, including metric development and statistical testing
-- Survey and experimental methods, including questionnaire design 
-- Uncertainty quantification and forecasting 
-- Data visualization and map design: graphical design best practices, developing maps, graphics and interactive platforms
-- User-centered model communication: eliciting user needs, developing technical products around user needs, conducting usability testing
+-	**Predictive Analytics & Statistical Modeling**: Bayesian methods, regression modeling, time-series forecasting, spatiotemporal analytics, clustering, and advanced statistical techniques.
+-	**Machine Learning & Computational Analytics**: Machine learning solutions, large-scale simulations, and high-performance computational modeling.
+-	**Model Performance & Validation**: Model evaluation, performance metric development, statistical testing, and validation frameworks.
+-	**Research & Decision Intelligence**: Survey design, experimental design, questionnaire development, and evidence-based research methods.
+-	**Forecasting & Risk Analytics**: Uncertainty quantification, probabilistic forecasting, and risk assessment.
+-	**Data Visualization & Business Intelligence**: Data storytelling, dashboard and interactive tool development, geospatial analytics, and effective visual communication.
+-	**User-Centered Product & Communication Strategy**: Stakeholder needs assessment, user-focused technical product development, usability testing, and translating user perspectives into actionable insights.
+
 </div>
 
 <div markdown="1">
