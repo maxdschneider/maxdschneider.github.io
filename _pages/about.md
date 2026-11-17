@@ -6,8 +6,10 @@ permalink: /
 
 # 15 years turning messy, high-stakes data into tools and visuals that guide real-life decisions
 
+
+
 <style>
-  .statwork-layout {
+  .fronthome-layout {
     display: grid;
     grid-template-columns: 1fr;
     gap: 1.5rem;
@@ -15,18 +17,21 @@ permalink: /
   }
 
   @media (min-width: 768px) {
-    .statwork-layout {
-      grid-template-columns: minmax(0, 8fr) minmax(0, 4fr);
+    .fronthome-layout {
+      grid-template-columns: minmax(0, 6fr) minmax(0, 6fr);
     }
   }
 </style>
 
-<div class="statwork-layout">
+<div class="fronthome-layout">
   <div>
     {% include figure.liquid loading="eager" path="assets/img/schneider-ingv-consulting.jpg" title="Max Schneider" class="img-fluid rounded z-depth-1" %}
   </div>
 
+<div class="fronthome-layout">
+  <div>
 ## I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco.
+  </div>
 
 <br>
 <br>
@@ -37,6 +42,12 @@ UPDATE: After completing a post-doc at the US Geological Survey, I am seeking a 
 </div>
 
 {% include news.liquid %}
+
+<style>
+  .social i {
+    font-size: 1.4em;
+  }
+</style>
 
 <div class="social">
   <a href="mailto:{{ site.data.socials.email }}" aria-label="Email">
