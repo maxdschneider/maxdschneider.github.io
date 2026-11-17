@@ -6,7 +6,7 @@ subtitle:
 _styles: >
   @media (min-width: 576px) {
     .profile {
-      width: 45% !important;
+      length: 65% !important;
     }
   }
   

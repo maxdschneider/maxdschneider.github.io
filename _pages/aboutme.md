@@ -32,13 +32,5 @@ I am fascinated by how society addresses gargantuan risks on our planet using pr
 </div>
 
 <div markdown="1">
-Major professional achievements include:
--  building the first spatiotemporal statistical earthquake rate model for the Pacific Northwest (Schneider et al., 2025)
-- redesigning the German national seismic hazard map and consulting on the California state seismic hazard map (Schneider et al., 2023)
-- leading a four-country research program for user-centered and -tested aftershock forecast products (Schneider et al., 2026) 
-- statistical testing of the USGS operational aftershock forecasting system (manuscript in preparation).
-</div>
-
-<div markdown="1">
-In my free time, I bike through San Francisco, drum in a Brazilian music ensemble, and [take photos of what strikes me](https://maxdschneider.github.io/photos/).  
+In my free time, I bike through San Francisco, drum in a [Brazilian music ensemble](https://www.locoblocosf.org/), and [take photos of what strikes me](https://maxdschneider.github.io/photos/).  
 </div>
