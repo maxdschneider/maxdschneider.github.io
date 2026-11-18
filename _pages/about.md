@@ -25,18 +25,15 @@ permalink: /
   }
 </style>
 
-<span style="color: #7851A9;"> ## 15+ years turning messy, high-stakes data into models and tools to improve decision-making.</span>
+<span style="color: #7851A9;">
+## 15+ years turning messy, high-stakes data into models and tools to improve decision-making.
+</span>
 
-<div class="fronthome-layout", style="max-width: 300px;>
+<div class="fronthome-layout">
   <div>
-  {% include figure.liquid
-    loading="eager"
-    path="assets/img/Schneider-Headshot.jpg"
-    title="Max Schneider"
-    class="img-fluid rounded z-depth-1"
-  %}
-   </div>
- 
+    {% include figure.liquid loading="eager" path="assets/img/Schneider-Headshot.jpg" title="Max Schneider" class="img-fluid rounded z-depth-1" %}
+  </div>
+
   <div markdown="1">
 <span style="font-size: 2em;"> I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. </span>
 
