@@ -25,10 +25,8 @@ permalink: /
   }
 </style>
 
-<div markdown="1">
-<span style="font-size: 2em; style="color: #7851A9;"> 15+ years turning messy, high-stakes data into models and tools to improve decision-making. </span>
+## 15+ years turning messy, high-stakes data into models and tools to improve decision-making. </span>
 
-</div>
 
 
 <div class="fronthome-layout">
