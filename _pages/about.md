@@ -25,7 +25,7 @@ permalink: /
   }
 </style>
 
-## 15+ years turning messy, high-stakes data into models and tools to improve decision-making.
+# 15+ years turning messy, high-stakes data into models and tools to improve decision-making.
 
 
 
@@ -43,8 +43,6 @@ Update: After completing a post-doc at the US Geological Survey, I am seeking a 
 </div>
 <br>
 
-<div markdown="1">
-</div>
 
 # news
 {% include news.liquid %}
