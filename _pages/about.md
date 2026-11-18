@@ -25,7 +25,7 @@ permalink: /
   }
 </style>
 
-## 15+ years turning messy, high-stakes data into models and tools to improve decision-making. </span>
+## 15+ years turning messy, high-stakes data into models and tools to improve decision-making.
 
 
 
