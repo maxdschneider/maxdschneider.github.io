@@ -27,10 +27,8 @@ permalink: /consulting/user-centered-aftershock-forecast-products/
     {% include figure.liquid loading="eager" path="assets/img/schneider-ingv-consulting.png" title="Consulting for the Italian National Institute of Geophysics and Volcanology" class="img-fluid rounded z-depth-1" %}
   </div>
 
-  <div style="min-width: 0; "markdown="1">
     <p>
-I work with the Italian National Institute of Geophysics and Volcanology to improve how earthquake forecasts are communicated and used in emergency management. I develop maps and visualizations for earthquake forecast reports that are sent to Italy’s Department of Civil Protection, incorporating the needs and concerns of stakeholders and the country’s sociocultural context. These products will be evaluated with key stakeholders to ensure that they can support decisions in earthquake response and preparedness at national, regional, and local levels.
+I work with the Italian National Institute of Geophysics and Volcanology to improve how earthquake forecasts are communicated and used in emergency management. I develop maps and visualizations for earthquake forecast reports that are sent to Italy’s Department of Civil Protection, incorporating the needs and concerns of stakeholders and the country’s sociocultural and legal context. These products will be evaluated with key stakeholders to ensure that they can support decisions in earthquake response and preparedness at national, regional, and local levels.
     </p>
-  </div>
 </div>
 
