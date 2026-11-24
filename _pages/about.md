@@ -45,7 +45,7 @@ Update: After completing my post-doc at the US Geological Survey, I am seeking a
 
 
 <div markdown="1">
-News
+<span style="font-size: 3em;">News</span> 
 </div>
 {% include news.liquid %}
 
