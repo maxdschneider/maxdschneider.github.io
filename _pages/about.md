@@ -25,7 +25,7 @@ permalink: /
   }
 </style>
 
- 15+ years turning messy, high-stakes data into models and tools to improve decision-making.
+15+ years turning messy, high-stakes data into models and tools to improve decision-making.
 
 
 
@@ -37,7 +37,7 @@ permalink: /
   <div markdown="1">
 <span style="font-size: 2em;"> I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. </span>
 
-Update: After completing a post-doc at the US Geological Survey, I am seeking a new role applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/). 
+Update: After completing my post-doc at the US Geological Survey, I am seeking a new role applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/). 
   </div>
 
 </div>

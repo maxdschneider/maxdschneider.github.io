@@ -22,7 +22,7 @@ nav_order: 7
 
 ## Selected publications in user-centered risk visualization
 
-- **Schneider, M.**, Wein, A., McBride, S. K., van der Elst, N., Becker, J. S., Castro, R., Diaz, M., Gonzalez-Huizar, H., Hardebeck, J., Michael, A. J., et al. (2026). Tailor the Product for Its Use: Aftershock Forecast Graphics and Maps Designed Around User Needs (forthcoming). *Bulletin of the Seismological Society of America*.
+- **Schneider, M.**, Wein, A., McBride, S. K., van der Elst, N., Becker, J. S., Castro, R., Diaz, M., Gonzalez-Huizar, H., Hardebeck, J., Michael, A. J., et al. (2026). [Tailor the Product for Its Use: Aftershock Forecast Graphics and Maps Designed Around User Needs](https://pubs.geoscienceworld.org/ssa/bssa/article/doi/10.1785/0120260137/799785/Tailor-the-Product-for-Its-Use-Aftershock-Forecast). *Bulletin of the Seismological Society of America*.
 
 - **Schneider, M.**, Wein, A., McBride, S. K., Artigas, B., Castro, R., Gonzalez-Huizar, H., Page, M. & van der Elst, N. (2026). [From user needs to design choices: A method for user-centered design of natural hazards visualizations](https://ascelibrary.org/doi/abs/10.1061/NHREFO.NHENG-2894) *Natural Hazards Review, 28(1)*, 105450.
 
