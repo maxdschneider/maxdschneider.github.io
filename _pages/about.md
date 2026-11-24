@@ -25,7 +25,9 @@ permalink: /
   }
 </style>
 
-15+ years turning messy, high-stakes data into models and tools to improve user decision-making.
+<div markdown="1">
+<span style="font-size: 2.2em;">15+ years turning messy, high-stakes data into models and tools to improve user decision-making.</span> 
+</div>
 
 
 
@@ -35,9 +37,9 @@ permalink: /
   </div>
 
   <div markdown="1">
-<span style="font-size: 2em;"> I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. </span>
+<span style="font-size: 1.5em;"> I’m Max, a statistician, science & risk communicator and earthquake scientist based in San Francisco. </span>
 
-Update: After completing my post-doc at the US Geological Survey, I am seeking a new role applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/). 
+<span style="font-size: 1.2em;"> Update: After completing my post-doc at the US Geological Survey, I am seeking a new role applying my data science and product skillsets to tough problems in industry and science. I am also open to consulting work - please see my [consulting page](https://maxdschneider.github.io/consulting/) and [get in touch](https://maxdschneider.github.io/contact/).  </span>
   </div>
 
 </div>
@@ -45,7 +47,7 @@ Update: After completing my post-doc at the US Geological Survey, I am seeking a
 
 
 <div markdown="1">
-<span style="font-size: 3em;">News</span> 
+<span style="font-size: 2.5em;">News</span> 
 </div>
 {% include news.liquid %}
 
