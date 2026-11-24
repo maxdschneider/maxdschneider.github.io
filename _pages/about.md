@@ -18,7 +18,7 @@ permalink: /
     align-items: start;
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 500px) {
     .fronthome-layout {
       grid-template-columns: minmax(0, 6fr) minmax(0, 6fr);
     }
